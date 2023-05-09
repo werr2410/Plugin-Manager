@@ -48,6 +48,7 @@ namespace PManager {
         Smalltalk,
         ABAP,
         VHDL,
-        Awk
+        Awk,
+        None
     }
 }
