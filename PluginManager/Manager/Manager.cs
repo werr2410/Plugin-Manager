@@ -1,5 +1,8 @@
 namespace PManager {
-    class Manager {
-        //public string Path;
+    partial class Manager {
+        private ManagerFile? file { get; set; } 
+
+
+
     }
 }
