@@ -39,7 +39,7 @@ namespace PManager {
             get => 4;
         }
 
-        public string Extension {
+        public static string Extension {
             get => ".pmdata";
         }
     }
