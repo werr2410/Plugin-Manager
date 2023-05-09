@@ -38,5 +38,9 @@ namespace PManager {
         private int CountElement {
             get => 4;
         }
+
+        public string Extension {
+            get => ".pmdata";
+        }
     }
 }
